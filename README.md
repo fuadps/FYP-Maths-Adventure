@@ -1,5 +1,5 @@
 # FYP-Maths-Adventure
-Game based learning develop using Unity 5.
+Game based learning develop using [Unity 5](https://unity3d.com/get-unity/download).
 
 One of my current project for Final Year Project 2017 during my Semester 5.
 
@@ -11,7 +11,7 @@ Find the hidden hieroglyphics and solve the mathematics problem on it to open lo
 
 ## Requirements
 1. [DirectX 11](https://www.microsoft.com/en-my/download/details.aspx?id=17431)
-2. [Math's Adventure (ZIP)]()
+2. [Math's Adventure (ZIP)](https://github.com/fuadps/FYP-Maths-Adventure/archive/master.zip)
 
 ## Screenshot
 
@@ -26,7 +26,10 @@ Find the hidden hieroglyphics and solve the mathematics problem on it to open lo
 ### One of the floor map
 ![image](https://i.imgur.com/ogiNNN2.png)
 
-## Disclaimer
-This games contain bugs for sure BUT I dont intend to fix it for now.
+## Update
+I do not intend to update this games for future use anymore BUT only God know what happen.
 
-Feel free to play and I dont responsible for having any problems during installation or playing period.
+## Disclaimer
+This games contain bugs for sure BUT I do not intend to fix it for now.
+
+Feel free to play and I do not responsible for having any problems during installation or playing period.
