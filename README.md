@@ -1,5 +1,5 @@
 # FYP-Maths-Adventure
-Game based learning develop using [Unity 5](https://unity3d.com/get-unity/download).
+Game based learning developed using [Unity 5](https://unity3d.com/get-unity/download).
 
 One of my current project for Final Year Project 2017 during my Semester 5.
 
@@ -7,7 +7,7 @@ One of my current project for Final Year Project 2017 during my Semester 5.
 Math's Adventure is a 3D games based learning that focus on learning mathematics and playing at the same times for primary school students.
 
 ## Games Objectives
-Find the hidden hieroglyphics and solve the mathematics problem on it to open locked gate and procees to explore next level.Find the secrets of the temple by solving the games!
+Find the hidden hieroglyphics and solve the mathematics problem on it to open locked gate and proceed to explore next level.Find the secrets of the temple by solving the games!
 
 ## Requirements
 1. [DirectX 11](https://www.microsoft.com/en-my/download/details.aspx?id=17431)
