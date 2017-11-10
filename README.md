@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="400" height="300" src="https://i.imgur.com/vCzMO5V.png">
+</p>
+
 # FYP-Maths-Adventure
 Game based learning developed using [Unity 5](https://unity3d.com/get-unity/download).
 
