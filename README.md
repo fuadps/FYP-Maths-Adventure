@@ -17,6 +17,13 @@ Find the hidden hieroglyphics and solve the mathematics problem on it to open lo
 1. [DirectX 11](https://www.microsoft.com/en-my/download/details.aspx?id=17431)
 2. [Math's Adventure (ZIP)](https://github.com/fuadps/FYP-Maths-Adventure/archive/master.zip)
 
+## Control
+ONLY keyboard and mouse
+
+Keyboard - Actions like move and dive.
+
+Mouse - Controlling camera view perspective.
+
 ## Screenshot
 
 ### Main Menu
