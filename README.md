@@ -5,7 +5,7 @@
 # FYP-Maths-Adventure
 Game based learning developed using [Unity 5](https://unity3d.com/get-unity/download).
 
-One of my current project for Final Year Project 2017 during my Semester 5.
+One of my current project for Final Year Project 2017 during Semester 5.
 
 ## Title - Math's Adventures !
 Math's Adventure is a 3D games based learning that focus on learning mathematics and playing at the same times for primary school students.
