@@ -38,7 +38,7 @@ Mouse - Controlling camera view perspective.
 ![image](https://i.imgur.com/ogiNNN2.png)
 
 ## Update
-I do not intend to update this games for future use anymore BUT only God know what happen.
+I do not intend to update this games for future use anymore.
 
 ## Disclaimer
 This games contain bugs for sure BUT I do not intend to fix it for now.
