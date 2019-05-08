@@ -24,6 +24,9 @@ Keyboard - Actions like move and dive.
 
 Mouse - Controlling camera view perspective.
 
+## Video Trailer
+[Maths Adventure - Trailer on Youtube](https://www.youtube.com/watch?v=OMxJ3AlnLo0&feature=youtu.be)
+
 ## Screenshot
 
 ### Main Menu
